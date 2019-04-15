@@ -27,7 +27,7 @@ Single core processor implementing user level instruction of RISC-V 32I instruct
           Coe File: Choose one from the directory MiniRISC-V:/Assembly
           Fill Remaining Memory Locations: 00000
 4. You can run your own assembly program and generate .coe file using the assembler.py file in the MiniRISC-V/Assembly
-5. Run the tb_RISCVcore to simulate if the program running correctly
+5. Run the tb_RISCVcore to simulate detailed functionality of the core in each pipeline.
         
           
       
